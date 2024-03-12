@@ -1,0 +1,14 @@
+D:\학생용폴더\오현영\classAPP\classAPP\bin\Debug\net8.0\classAPP.exe
+D:\학생용폴더\오현영\classAPP\classAPP\bin\Debug\net8.0\classAPP.deps.json
+D:\학생용폴더\오현영\classAPP\classAPP\bin\Debug\net8.0\classAPP.runtimeconfig.json
+D:\학생용폴더\오현영\classAPP\classAPP\bin\Debug\net8.0\classAPP.dll
+D:\학생용폴더\오현영\classAPP\classAPP\bin\Debug\net8.0\classAPP.pdb
+D:\학생용폴더\오현영\classAPP\classAPP\obj\Debug\net8.0\classAPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\학생용폴더\오현영\classAPP\classAPP\obj\Debug\net8.0\classAPP.AssemblyInfoInputs.cache
+D:\학생용폴더\오현영\classAPP\classAPP\obj\Debug\net8.0\classAPP.AssemblyInfo.cs
+D:\학생용폴더\오현영\classAPP\classAPP\obj\Debug\net8.0\classAPP.csproj.CoreCompileInputs.cache
+D:\학생용폴더\오현영\classAPP\classAPP\obj\Debug\net8.0\classAPP.dll
+D:\학생용폴더\오현영\classAPP\classAPP\obj\Debug\net8.0\refint\classAPP.dll
+D:\학생용폴더\오현영\classAPP\classAPP\obj\Debug\net8.0\classAPP.pdb
+D:\학생용폴더\오현영\classAPP\classAPP\obj\Debug\net8.0\classAPP.genruntimeconfig.cache
+D:\학생용폴더\오현영\classAPP\classAPP\obj\Debug\net8.0\ref\classAPP.dll
