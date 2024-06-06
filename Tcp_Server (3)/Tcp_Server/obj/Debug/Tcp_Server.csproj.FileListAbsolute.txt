@@ -1,0 +1,10 @@
+C:\Users\dhgus\source\repos\Tcp_Server\Tcp_Server\bin\Debug\Tcp_Server.exe.config
+C:\Users\dhgus\source\repos\Tcp_Server\Tcp_Server\bin\Debug\Tcp_Server.exe
+C:\Users\dhgus\source\repos\Tcp_Server\Tcp_Server\bin\Debug\Tcp_Server.pdb
+C:\Users\dhgus\source\repos\Tcp_Server\Tcp_Server\obj\Debug\Tcp_Server.csproj.AssemblyReference.cache
+C:\Users\dhgus\source\repos\Tcp_Server\Tcp_Server\obj\Debug\Tcp_Server.Form1.resources
+C:\Users\dhgus\source\repos\Tcp_Server\Tcp_Server\obj\Debug\Tcp_Server.Properties.Resources.resources
+C:\Users\dhgus\source\repos\Tcp_Server\Tcp_Server\obj\Debug\Tcp_Server.csproj.GenerateResource.cache
+C:\Users\dhgus\source\repos\Tcp_Server\Tcp_Server\obj\Debug\Tcp_Server.csproj.CoreCompileInputs.cache
+C:\Users\dhgus\source\repos\Tcp_Server\Tcp_Server\obj\Debug\Tcp_Server.exe
+C:\Users\dhgus\source\repos\Tcp_Server\Tcp_Server\obj\Debug\Tcp_Server.pdb
